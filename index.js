@@ -1,1 +1,1 @@
-console.log("Halo dari Siswa Irgy Ganteng");
+console.log("Halo dari Siswa Fatan");
